@@ -3,9 +3,9 @@
         "app_function": "app.app",
         "aws_region": "eu-north-1",
         "profile_name": null,
-        "project_name": "lizoku_gemini-embed",
+        "project_name": "lizoku-gemini-embed",
         "runtime": "python3.10",
-        "s3_bucket": "lizoku_gemini-embed-zappa",
+        "s3_bucket": "lizoku-gemini-embed-zappa-2025",
         "memory_size": 512,
         "timeout_seconds": 60,
         "exclude": [
