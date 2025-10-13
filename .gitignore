@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Zappa local artifacts
+.zappa*
+
+# OS files
+.DS_Store
+Thumbs.db

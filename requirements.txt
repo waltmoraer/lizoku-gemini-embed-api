@@ -1,0 +1,8 @@
+Flask==2.2.5
+requests==2.32.5
+
+# NOTE: zappa often pins older Werkzeug (<1.0) which conflicts with Flask 2.2+
+# If you intend to deploy with Zappa, install it into a separate environment
+# or use a Zappa-compatible Flask/Werkzeug combo. Example to install Zappa
+# separately:
+#   pip install zappa==0.54.0
